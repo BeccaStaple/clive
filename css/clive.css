@@ -1,0 +1,25 @@
+
+h2 {
+    color: white;
+    font-size: 46;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+h3 {
+    color: white;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+body {
+    color: white;
+    font-size: 16;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    }
+.buynow {
+    font-size: 30px;
+    outline: white;
+}
