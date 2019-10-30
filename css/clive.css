@@ -21,5 +21,6 @@ body {
     }
 .buynow {
     font-size: 30px;
-    outline: white;
+    border: solid white;
+    border-radius: 20 px;
 }
